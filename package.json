@@ -1,0 +1,20 @@
+{
+  "name": "stylelint-config-kubosho",
+  "version": "1.0.0",
+  "description": "My opinionated stylelint config",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./*.js",
+    "fmt": "prettier --write ./*.js"
+  },
+  "keywords": [
+    "stylelint",
+    "css"
+  ],
+  "author": "kubosho",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "prettier": "^1.10.2"
+  }
+}
