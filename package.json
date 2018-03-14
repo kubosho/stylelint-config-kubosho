@@ -16,5 +16,10 @@
   "devDependencies": {
     "eslint": "^4.18.1",
     "prettier": "^1.10.2"
+  },
+  "homepage": "https://github.com/kubosho/stylelint-config-kubosho#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kubosho/stylelint-config-kubosho.git"
   }
 }
