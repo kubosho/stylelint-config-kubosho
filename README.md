@@ -14,3 +14,7 @@ This config should always major version updates. Changing lint rules are always 
 ## License
 
 The codes are available under the [MIT License](https://github.com/kubosho/stylelint-config-kubosho/blob/master/LICENSE.md).
+
+## Dependencies
+
+- [Yarn](https://yarnpkg.com/)
