@@ -7,7 +7,7 @@ module.exports = {
     'no-duplicate-selectors': true,
     'selector-attribute-quotes': 'always',
     'selector-combinator-space-after': 'always',
-    'selector-no-id': true,
+    'selector-max-id': 1,
     'selector-pseudo-element-colon-notation': 'double',
   },
 };
